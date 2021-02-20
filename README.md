@@ -27,7 +27,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fumante1533&show_icons=true&theme=tokyonight" alt="status" />
 </details>
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/797190863007645726/812757616698458182/gif_11.gif" width="75%" height"75%"></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/797190863007645726/812757616698458182/gif_11.gif" width="70%" height"75%"></p>
 
 <p align="center">
     <a rel="discord" target="_blank" href="https://discord.com/users/770494601756803093">
