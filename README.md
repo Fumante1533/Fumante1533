@@ -7,9 +7,11 @@
 
 - At the time: JavaScript, Python, TypeScript
 
-- Studying: Java, Lua, PHP
+- Studying: Java, Lua, PHP, C, C++, C#
 
 - Thinking about studying: GoLang, Ruby
+
+- Others that I want to learn or already know: Hacking, SQL Injection.
 
 <details>
 <summary><img src="https://github.com/Fumante1533/Fumante1533/blob/main/panela.gif" width="25" height="25"><b>&nbsp;&nbsp;Status from my github</b></summary>
