@@ -33,10 +33,10 @@
     <a rel="discord" target="_blank" href="https://discord.com/users/770494601756803093">
         <img src="https://cdn.discordapp.com/emojis/812768858196279337.png?v=1" width="25px" alt="Discord"></a>
     &nbsp; &nbsp;
-    <a rel="twitch" target="_blank" href="https://twitch.tv/fumate1533">
+    <a rel="twitch" target="_blank" href="https://twitch.tv/fumante1533">
         <img src="https://cdn.discordapp.com/emojis/812770219205853224.png?v=1" width="30px" alt="Twitch"></a>
     &nbsp; &nbsp;
-    <a rel="github" target="_blank" href="https://github.com/fumate1533">
+    <a rel="github" target="_blank" href="https://github.com/fumante1533">
         <img src="https://cdn.discordapp.com/emojis/812772149151924224.gif?v=1" width="30px" alt="Github"></a>
     &nbsp; &nbsp;
     <a rel="glitch" target="_blank" href="https://glitch.com/@Fumante1533">
