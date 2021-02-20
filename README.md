@@ -7,7 +7,7 @@
 
 - <img src="https://cdn.discordapp.com/emojis/778059704261279744.gif?v=1" width="25" height="25">&nbsp;&nbsp;At the time: JavaScript, Python, TypeScript
 
-- <img src="https://cdn.discordapp.com/emojis/812753876242923541.gif?v=1" width="32" height="24">&nbsp;&nbsp;Studying: Java, Lua, PHP, C, C++, C#
+- <img src="https://cdn.discordapp.com/emojis/764172970771349524.gif?v=1" width="25" height="25">&nbsp;&nbsp;Studying: Java, Lua, PHP, C, C++, C#
 
 - <img src="https://cdn.discordapp.com/emojis/812753926285295616.gif?v=1" width="25" height="25">&nbsp;&nbsp;Thinking about studying: GoLang, Ruby
 
