@@ -1,7 +1,7 @@
 #                                                                    *About me*
 - <img src="https://cdn.discordapp.com/emojis/778059737844940800.gif?v=1" width="25" height="25">&nbsp;&nbsp;快来了.
 
-- <img src="https://cdn.discordapp.com/emojis/778074814928781352.png?v=1" width="25" height="25">&nbsp;&nbsp;My discord server: [click here](https://discord.gg/xvideos)
+- <img src="https://cdn.discordapp.com/emojis/778074814928781352.png?v=1" width="20" height="30">&nbsp;&nbsp;My discord server: [click here](https://discord.gg/xvideos)
 
 #                                                                    *Languages*
 
