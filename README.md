@@ -18,7 +18,7 @@
 
 - <img src="https://cdn.discordapp.com/emojis/812753926285295616.gif?v=1" width="25" height="25">&nbsp;&nbsp;Thinking about studying: GoLang, Ruby
 
-- <img src="https://cdn.discordapp.com/emojis/812754615337877514.gif?v=1" width="25" height="25">&nbsp;&nbsp;Others that I want to learn or already know: Hacking, SQL Injection and Pentest.
+- <img src="https://cdn.discordapp.com/emojis/812754615337877514.gif?v=1" width="25" height="25">&nbsp;&nbsp;Others that I want to learn or already know: Hacking, Pentest.
 
 #                                                                    
 
